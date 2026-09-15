@@ -1,5 +1,5 @@
 # FANFOLD: Graph Normalization Flows Driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection
-![Freamwork](fig1.png)
+![Freamwork](fig1.pdf)
 # Requirements
 * Python==3.8
 * Pytorch==2.2.1+cu121
