@@ -1,4 +1,4 @@
-# FANFOLD: Graph Normalization Flows Driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection
+# FANFOLD: Graph Normalization Flow-Induced Asymmetric Network for Unsupervised Graph-Level Anomaly Detection
 ![Freamwork](fig1.pdf)
 # Requirements
 * Python==3.8
