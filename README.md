@@ -1,5 +1,5 @@
 # FANFOLD: Graph Normalization Flow-Induced Asymmetric Network for Unsupervised Graph-Level Anomaly Detection
-![Framework](Fig.1_Framework.pdf)
+![Framework](fig1.png)
 
 ## Overview
 FANFOLD consists of four stages:
